@@ -12,7 +12,7 @@ from telegram.ext import (
     filters
 )
 
-TOKEN = "8419374064:AAHcD9DAptVN5VlQI6dpQRbRIFLTkfBLH0Q"
+TOKEN = "8419374064:AAFp8p8Mdx2AuT-7CM-yaCJhlINstrasuDo"
 ADMIN_ID = 6682960798  # ADMIN TELEGRAM ID
 
 DOWNLOAD_DIR = "downloads"
